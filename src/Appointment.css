@@ -1,0 +1,157 @@
+.grid3 {
+  height: 520px;
+  background-color: #fff;
+  width: 69.5rem;
+  padding-top: 0.5rem;
+  border-radius: 0.5rem;
+}
+.shift {
+  padding-left: 1rem;
+  display: flex;
+}
+.uapamr {
+  display: flex;
+  background-color: rgb(221, 225, 230);
+  margin-top: 1rem;
+  height: 2.5rem;
+  border-radius: 0.5rem;
+  width: 600px;
+}
+
+.ua {
+  margin: 0.6rem;
+  height: 1.8rem;
+  width: 15rem;
+  font-size: 14px;
+  border-radius: 0.5rem;
+  cursor: pointer;
+}
+
+.ua:hover {
+  background-color: #fff;
+  margin-top: 0.3rem;
+}
+
+.appointment {
+  margin: 2rem;
+  background-color: rgb(221, 225, 230);
+}
+.flex-column{
+  background-color: #fff;
+  height: 115vh;
+  padding-top: 2rem;
+}
+.head {
+  display: flex;
+  padding-top: 2rem;
+  margin-left: -2rem;
+}
+.bttn{
+  background-color: #fff;
+  height: 2.2rem;
+  font-size: 13px;
+  font-weight: 600;
+}
+.treat {
+  padding-left: 37rem;
+  padding-bottom: 1rem;
+  border-radius: 0.5rem;
+}
+
+.icon2{
+  margin-left: -0.8rem;
+  margin-top: -0.2rem;
+}
+
+.outer {
+  padding: 30px;
+  background-color: #fff;
+  display: flex;
+  height: 8rem;
+}
+
+.line1 {
+  text-align: left;
+}
+
+.line {
+  text-align: left;
+}
+
+.cgnotes {
+  display: flex;
+  margin-left: 5rem;
+  margin-top: 1rem;
+}
+
+.profile1 {
+  background-color: rgb(221, 225, 230);
+  width: 65rem;
+  height: 25rem;
+  border-radius: 0.5rem;
+}
+
+.container-lg {
+  padding-left: 2rem;
+}
+
+.header{
+  border-bottom: 1px #ddd solid;
+  height: 4rem;
+}
+
+.style{
+  border-radius: 2rem;
+  width: 7rem;
+  font-size: 13px;
+  font-weight: 600;
+  height: 2.3rem;
+}
+
+.notification{
+  height: 2.5rem;
+  width: 2.5rem;
+  border-radius: 50%;
+  background-color: #fff;
+}
+
+.icons{
+  padding: 0.25rem;
+}
+
+.brand{
+  display: flex;
+  padding-left: 1rem;
+}
+
+.header1{
+  border-bottom: 1px #ddd solid;
+  height: 3rem;
+}
+
+.space{
+  padding-top: 25rem;
+}
+
+.top{
+  border-top: 1px #ddd solid;
+  padding: 0.6rem;
+}
+
+.iconn{
+  display: flex;
+}
+
+.doctor{
+  margin-top: -0.4rem;
+}
+
+.drop{
+  padding-left: 4.7rem;
+}
+
+.dropdn{
+  background-color: #fff;
+  color: #000;
+  border: none;
+}
